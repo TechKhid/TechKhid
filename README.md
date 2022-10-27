@@ -1,5 +1,5 @@
 Hi there 👋
-- 🔭 I’m currently working on Innovative and Practical Computer Vision Projects leveraging Machine Learning and Deep Learning via Python for the augmentedstartups.com platform
+- 🔭 I’m currently working on Innovative and Practical Computer Vision Projects leveraging Machine Learning and Deep Learning via Python for the https://augmentedstartups.com platform
 - 🌱 I’m currently brushing up on my Deep Learning, Computer Vision, Algorithms and Data Structures knowledge
 - 👯 I’m looking to collaborate on Practical A.I related projects.
 - 🤔 I’m looking for help with remote computer vision and Deep learning engineering roles.
