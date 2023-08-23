@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MENSAH SAMUEL KOFI (TECHKHID))</h1>
+<h1 align="center">Hi 👋, I'm MENSAH SAMUEL KOFI (TECHKHID)</h1>
 <h3 align="center">A passionate Computer Vision Engineer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techkhid&label=Profile%20views&color=0e75b6&style=flat" alt="techkhid" /> </p>
