@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **Techkhid233@gmail.com**
 
-- ⚡ Fun fact **Fun fact: I'm a Nerd!😂**
+- ⚡ Fun fact **Fun fact: I'm a Nerd!😂** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
