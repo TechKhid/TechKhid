@@ -1,21 +1,18 @@
 <h1 align="center">Hi 👋, I'm MENSAH SAMUEL KOFI (TECHKHID)</h1>
-<h3 align="center">A passionate Computer Vision Engineer from Ghana</h3>
+<h3 align="center">A passionate AI Engineer from Ghana</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techkhid&label=Profile%20views&color=0e75b6&style=flat" alt="techkhid" /> </p>
 
 <p align="left"> <a href="https://twitter.com/techkhid" target="blank"><img src="https://img.shields.io/twitter/follow/techkhid?logo=twitter&style=for-the-badge" alt="techkhid" /></a> </p>
 
-- 🔭 I’m currently working on **working on Innovative and Practical Computer Vision Projects leveraging Machine Learning and Deep Learning using Python for the https://augmentedstartups.com platform**
+- 🔭 I’m currently working on **MyMPConnect a personal project, RAG and AI Agents**
 
-- 🌱 I’m currently **brushing up on my Deep Learning, Computer Vision, Algorithms and Data Structures knowledge**
+- 👯 I’m looking to collaborate on **on Practical AI projects.**
 
-- 👯 I’m looking to collaborate on **on Practical A.I related projects.**
-
-- 🤝 I’m looking for help with **with remote computer vision and Deep learning engineering roles**
+- 🤝 I’m looking for help with **with remote AI engineering roles**
 
 - 📫 How to reach me **Techkhid233@gmail.com**
 
-- ⚡ Fun fact **Fun fact: I'm a Nerd!😂** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
