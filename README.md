@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/techkhid" target="blank"><img src="https://img.shields.io/twitter/follow/techkhid?logo=twitter&style=for-the-badge" alt="techkhid" /></a> </p>
 
-- 🔭 I’m currently working on **MyMPConnect a personal project, RAG and AI Agents**
+- 🔭 I’m currently working on **GovLens a civic accountability tracker, RAG and AI Agents**
 
 - 👯 I’m looking to collaborate on **on Practical AI projects.**
 
