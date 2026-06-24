@@ -5,13 +5,10 @@
 
 <p align="left"> <a href="https://twitter.com/techkhid" target="blank"><img src="https://img.shields.io/twitter/follow/techkhid?logo=twitter&style=for-the-badge" alt="techkhid" /></a> </p>
 
-- 🔭 I’m currently working on **GovLens a civic accountability tracker, RAG and AI Agents**
-
-- 👯 I’m looking to collaborate on **on Practical AI projects.**
-
-- 🤝 I’m looking for help with **with remote AI engineering roles**
-
-- 📫 How to reach me **Techkhid233@gmail.com**
+- 🔭 I'm currently working on **GovLens** — a civic accountability tracker. Currently in the final top 10 of the [BeOrchid Hackathon](https://www.beorchid.com/hackathon) and RAG and Agentic systems.
+- 👯 I'm looking to collaborate on **practical AI projects**.
+- 🤝 I'm looking for help with **remote AI engineering roles**.
+- 📫 How to reach me: [Techkhid233@gmail.com](mailto:Techkhid233@gmail.com)
 
 
 <h3 align="left">Connect with me:</h3>
